@@ -1,115 +1,121 @@
 {
   "podcasters": [
     {
+      "id": 1,
       "name": "John Smith",
-      "bio": "John Smith jest doświadczonym podcasterem specjalizującym się w dziedzinie psychologii i samorozwoju. Jego programy pomagają słuchaczom zrozumieć siebie lepiej i osiągnąć pełniejsze życie.",
+      "bio": "John Smith is an experienced podcaster specializing in the field of psychology and self-development. His programs help listeners understand themselves better and achieve a more fulfilling life.",
       "top_podcasts": [
         {
           "title": "Mindful Living",
           "listeners": 50000,
-          "topic": "Podcast Mindful Living to miejsce, gdzie eksperci dzielą się technikami medytacji i praktykami mindfulness, pomagając słuchaczom osiągnąć spokój umysłu i harmonię w życiu codziennym."
+          "topic": "Mindful Living podcast is a place where experts share meditation techniques and mindfulness practices, helping listeners achieve peace of mind and harmony in everyday life."
         },
         {
           "title": "Unlocking Potential",
           "listeners": 60000,
-          "topic": "Unlocking Potential to podcast, który inspiruje do odkrywania własnych możliwości i realizowania marzeń. John Smith rozmawia z gośćmi na temat rozwoju osobistego i osiągania sukcesu."
+          "topic": "Unlocking Potential is a podcast that inspires exploring one's own potential and achieving dreams. John Smith engages in discussions about personal development and success."
         },
         {
           "title": "Inner Peace Talks",
           "listeners": 55000,
-          "topic": "Inner Peace Talks to seria pogłębionych rozmów na temat dążenia do wewnętrznego spokoju i równowagi. Słuchacze znajdą tu wskazówki, jak radzić sobie ze stresem i napięciami."
+          "topic": "Inner Peace Talks is a series of in-depth conversations about striving for inner peace and balance. Listeners will find tips on dealing with stress and tension."
         }
       ]
     },
     {
+      "id": 2,
       "name": "Emily Johnson",
-      "bio": "Emily Johnson to pasjonatka podróży, która dzieli się swoimi przygodami na całym świecie. Jej podcasty oferują inspirację do odkrywania nowych miejsc i kultur.",
+      "bio": "Emily Johnson is a travel enthusiast who shares her adventures from around the world. Her podcasts provide inspiration for discovering new places and cultures.",
       "top_podcasts": [
         {
           "title": "Around the Globe Adventures",
           "listeners": 45000,
-          "topic": "Around the Globe Adventures to podcast, który przenosi słuchaczy w podróż po najpiękniejszych miejscach na ziemi. Emily dzieli się swoimi wrażeniami z podróży i cennymi wskazówkami dla globtroterów."
+          "topic": "Around the Globe Adventures is a podcast that takes listeners on a journey to the most beautiful places on Earth. Emily shares her travel experiences and valuable tips for globetrotters."
         },
         {
           "title": "Wanderlust Chronicles",
           "listeners": 48000,
-          "topic": "Wanderlust Chronicles to opowieści o dalekich podróżach, egzotycznych kulturach i fascynujących ludziach, których spotyka się w drodze. Emily inspiruje do wyruszenia w nieznane."
+          "topic": "Wanderlust Chronicles is about distant travels, exotic cultures, and fascinating people encountered on the road. Emily inspires venturing into the unknown."
         },
         {
           "title": "Cultural Explorations",
           "listeners": 42000,
-          "topic": "Cultural Explorations to głębokie zanurzenie w różnorodności kultur na świecie. Słuchacze poznają unikalne tradycje, sztukę i zwyczaje różnych społeczności."
+          "topic": "Cultural Explorations is a deep dive into the diversity of cultures worldwide. Listeners will learn about unique traditions, art, and customs of different communities."
         }
       ]
     },
     {
+      "id": 3,
       "name": "Michael Brown",
-      "bio": "Michael Brown to ekspert w dziedzinie technologii i nowych mediów. Jego podcasty analizują najnowsze trendy i innowacje w świecie technologicznym.",
+      "bio": "Michael Brown is an expert in technology and new media. His podcasts analyze the latest trends and innovations in the world of technology.",
       "top_podcasts": [
         {
           "title": "Tech Insights",
           "listeners": 55000,
-          "topic": "Tech Insights to źródło wiedzy o najnowszych osiągnięciach technologicznych. Michael Brown rozmawia z ekspertami i analizuje wpływ nowych technologii na nasze życie."
+          "topic": "Tech Insights is a source of knowledge about the latest technological achievements. Michael Brown talks to experts and analyzes the impact of new technologies on our lives."
         },
         {
           "title": "Innovation Spotlight",
           "listeners": 60000,
-          "topic": "Innovation Spotlight to podcast, który przybliża słuchaczom najciekawsze innowacje i startupy. Dowiesz się, jak nowe technologie zmieniają świat biznesu."
+          "topic": "Innovation Spotlight is a podcast that introduces listeners to the most interesting innovations and startups. You will learn how new technologies are changing the business world."
         },
         {
           "title": "Digital Revolutionaries",
           "listeners": 52000,
-          "topic": "Digital Revolutionaries to podcast o ludziach, którzy przyczynili się do rewolucji cyfrowej. Słuchacze poznają historie przedsiębiorców i wynalazców."
+          "topic": "Digital Revolutionaries is a podcast about the people who contributed to the digital revolution. Listeners will discover the stories of entrepreneurs and inventors."
         }
       ]
     },
     {
+      "id": 4,
       "name": "Sophia White",
-      "bio": "Sophia White to pasjonatka zdrowego stylu życia i odżywiania. Jej podcasty skupiają się na promocji zdrowia fizycznego i mentalnego oraz przepisach kulinarnych.",
+      "bio": "Sophia White is passionate about a healthy lifestyle and nutrition. Her podcasts focus on promoting physical and mental health as well as culinary recipes.",
       "top_podcasts": [
         {
           "title": "Healthy Living Essentials",
           "listeners": 48000,
-          "topic": "Healthy Living Essentials to przewodnik po zdrowym stylu życia. Sophia White dzieli się praktycznymi poradami dotyczącymi diety, aktywności fizycznej i dbania o psychikę."
+          "topic": "Healthy Living Essentials is a guide to a healthy lifestyle. Sophia White shares practical advice on diet, physical activity, and mental well-being."
         },
         {
           "title": "Nutrition Matters",
           "listeners": 52000,
-          "topic": "Nutrition Matters to podcast, który bada znaczenie odpowiedniego odżywiania. Słuchacze dowiedzą się, jakie produkty wpływają pozytywnie na zdrowie i energię."
+          "topic": "Nutrition Matters is a podcast that explores the importance of proper nutrition. Listeners will learn which products have a positive impact on health and energy."
         },
         {
           "title": "Mindful Eating Tips",
           "listeners": 50000,
-          "topic": "Mindful Eating Tips to inspiracja do świadomego jedzenia. Sophia uczy technik mindful eating i pokazuje, jak cieszyć się posiłkami w pełni."
+          "topic": "Mindful Eating Tips is an inspiration for conscious eating. Sophia teaches mindful eating techniques and shows how to fully enjoy meals."
         }
       ]
     },
     {
+      "id": 5,
       "name": "Daniel Harris",
-      "bio": "Daniel Harris to historyk i miłośnik historii. Jego podcasty przenoszą słuchaczy w podróż przez ważne wydarzenia i postacie z przeszłości.",
+      "bio": "Daniel Harris is a historian and history enthusiast. His podcasts take listeners on a journey through significant historical events and figures.",
       "top_podcasts": [
         {
           "title": "Historical Journeys",
           "listeners": 42000,
-          "topic": "Historical Journeys to podróż w czasie do kluczowych momentów historii. Daniel opowiada o bitwach, rewolucjach i wielkich postaciach przeszłości."
+          "topic": "Historical Journeys is a time travel to key moments in history. Daniel tells stories of battles, revolutions, and great historical figures."
         },
         {
           "title": "Legends of the Past",
           "listeners": 45000,
-          "topic": "Legends of the Past to podcast o legendach i mitach różnych kultur. Słuchacze poznają fascynujące opowieści z różnych epok i miejsc."
+          "topic": "Legends of the Past is a podcast about legends and myths from different cultures. Listeners will discover fascinating stories from different eras and places."
         },
         {
           "title": "Time Traveler's Tales",
           "listeners": 41000,
-          "topic": "Time Traveler's Tales to opowieści o podróżach w czasie i tajemniczych zjawiskach historycznych. Daniel eksploruje nieznane aspekty przeszłości."
+          "topic": "Time Traveler's Tales is stories of time travel and mysterious historical phenomena. Daniel explores unknown aspects of the past."
         }
       ]
     }
   ],
   "artists": [
     {
+      "id": 6,
       "name": "David Smith",
-      "bio": "David Smith zdobył miejsce wśród 10 najlepszych muzyków dzięki jego zdolności do tworzenia hipnotyzujących melodii, które przenoszą słuchaczy w światy pełne magii i tajemnicy. Jego utwory są prawdziwym przykładem sztuki dźwięku.",
+      "bio": "David Smith has earned a place among the top 10 musicians with his ability to create hypnotic melodies that transport listeners to worlds full of magic and mystery. His works are a true example of the art of sound.",
       "top_songs": [
         {
           "title": "Midnight Serenade",
@@ -126,8 +132,9 @@
       ]
     },
     {
+      "id": 7,
       "name": "Sarah Johnson",
-      "bio": "Sarah Johnson oczarowała słuchaczy swoim głosem, który brzmi jak echo aniołów. Jej piosenki pełne emocji i melancholii znalazły się wśród 10 najlepszych, ponieważ dotykają one głębokich strun ludzkiego serca.",
+      "bio": "Sarah Johnson has captivated listeners with her voice, which sounds like an echo of angels. Her songs, full of emotion and melancholy, have made it to the top 10 because they touch the deep strings of the human heart.",
       "top_songs": [
         {
           "title": "Angels in the Rain",
@@ -144,8 +151,9 @@
       ]
     },
     {
+      "id": 8,
       "name": "Michael Anderson",
-      "bio": "Michael Anderson to mistrz komponowania muzyki elektronicznej, która przenosi słuchaczy w niesamowite podróże dźwiękowe. Jego twórczość jest wyrazem nowoczesnej ekspresji muzycznej.",
+      "bio": "Michael Anderson is a master of composing electronic music that takes listeners on amazing sonic journeys. His creativity is an expression of modern musical expression.",
       "top_songs": [
         {
           "title": "Digital Adventure",
@@ -162,8 +170,9 @@
       ]
     },
     {
+      "id": 9,
       "name": "Emily Davis",
-      "bio": "Emily Davis jest uznawana za jedną z najważniejszych artystek wokalnych swojego pokolenia. Jej piosenki to opowieści o miłości, nadziei i przeżyciach, które dotykają każdego serca.",
+      "bio": "Emily Davis is considered one of the foremost vocal artists of her generation. Her songs are tales of love, hope, and experiences that touch every heart.",
       "top_songs": [
         {
           "title": "Love in Colors",
@@ -180,8 +189,9 @@
       ]
     },
     {
+      "id": 10,
       "name": "Christopher White",
-      "bio": "Christopher White jest pionierem muzyki synthwave, która przenosi słuchaczy w czasy retro-futurystyczne. Jego utwory pełne są energii i elektryzujących dźwięków.",
+      "bio": "Christopher White is a pioneer of synthwave music that transports listeners to retro-futuristic times. His songs are full of energy and electrifying sounds.",
       "top_songs": [
         {
           "title": "Retro Lightning",
