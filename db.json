@@ -1,7 +1,7 @@
 {
   "podcasters": [
     {
-      "id": 1,
+      "place": 1,
       "name": "John Smith",
       "bio": "John Smith is an experienced podcaster specializing in the field of psychology and self-development. His programs help listeners understand themselves better and achieve a more fulfilling life.",
       "top_podcasts": [
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "id": 2,
+      "place": 2,
       "name": "Emily Johnson",
-      "bio": "Emily Johnson is a travel enthusiast who shares her adventures from around the world. Her podcasts provide inspiration for discovering new places and cultures.",
+      "bio": "Emily Johnson is a travel enthusiast who shares her adventures from around the world. Her podcasts provplacee inspiration for discovering new places and cultures.",
       "top_podcasts": [
         {
           "title": "Around the Globe Adventures",
@@ -40,12 +40,12 @@
         {
           "title": "Cultural Explorations",
           "listeners": 42000,
-          "topic": "Cultural Explorations is a deep dive into the diversity of cultures worldwide. Listeners will learn about unique traditions, art, and customs of different communities."
+          "topic": "Cultural Explorations is a deep dive into the diversity of cultures worldwplacee. Listeners will learn about unique traditions, art, and customs of different communities."
         }
       ]
     },
     {
-      "id": 3,
+      "place": 3,
       "name": "Michael Brown",
       "bio": "Michael Brown is an expert in technology and new media. His podcasts analyze the latest trends and innovations in the world of technology.",
       "top_podcasts": [
@@ -67,14 +67,14 @@
       ]
     },
     {
-      "id": 4,
+      "place": 4,
       "name": "Sophia White",
       "bio": "Sophia White is passionate about a healthy lifestyle and nutrition. Her podcasts focus on promoting physical and mental health as well as culinary recipes.",
       "top_podcasts": [
         {
           "title": "Healthy Living Essentials",
           "listeners": 48000,
-          "topic": "Healthy Living Essentials is a guide to a healthy lifestyle. Sophia White shares practical advice on diet, physical activity, and mental well-being."
+          "topic": "Healthy Living Essentials is a guplacee to a healthy lifestyle. Sophia White shares practical advice on diet, physical activity, and mental well-being."
         },
         {
           "title": "Nutrition Matters",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "id": 5,
+      "place": 5,
       "name": "Daniel Harris",
       "bio": "Daniel Harris is a historian and history enthusiast. His podcasts take listeners on a journey through significant historical events and figures.",
       "top_podcasts": [
@@ -113,12 +113,12 @@
   ],
   "artists": [
     {
-      "id": 6,
-      "name": "David Smith",
-      "bio": "David Smith has earned a place among the top 10 musicians with his ability to create hypnotic melodies that transport listeners to worlds full of magic and mystery. His works are a true example of the art of sound.",
+      "place": 1,
+      "name": "Davplace Smith",
+      "bio": "Davplace Smith has earned a place among the top 10 musicians with his ability to create hypnotic melodies that transport listeners to worlds full of magic and mystery. His works are a true example of the art of sound.",
       "top_songs": [
         {
-          "title": "Midnight Serenade",
+          "title": "Mplacenight Serenade",
           "views": 180000000
         },
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "id": 7,
+      "place": 2,
       "name": "Sarah Johnson",
       "bio": "Sarah Johnson has captivated listeners with her voice, which sounds like an echo of angels. Her songs, full of emotion and melancholy, have made it to the top 10 because they touch the deep strings of the human heart.",
       "top_songs": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": 8,
+      "place": 3,
       "name": "Michael Anderson",
       "bio": "Michael Anderson is a master of composing electronic music that takes listeners on amazing sonic journeys. His creativity is an expression of modern musical expression.",
       "top_songs": [
@@ -170,9 +170,9 @@
       ]
     },
     {
-      "id": 9,
+      "place": 4,
       "name": "Emily Davis",
-      "bio": "Emily Davis is considered one of the foremost vocal artists of her generation. Her songs are tales of love, hope, and experiences that touch every heart.",
+      "bio": "Emily Davis is consplaceered one of the foremost vocal artists of her generation. Her songs are tales of love, hope, and experiences that touch every heart.",
       "top_songs": [
         {
           "title": "Love in Colors",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "id": 10,
+      "place": 5,
       "name": "Christopher White",
       "bio": "Christopher White is a pioneer of synthwave music that transports listeners to retro-futuristic times. His songs are full of energy and electrifying sounds.",
       "top_songs": [
