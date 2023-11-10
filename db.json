@@ -8,17 +8,20 @@
         {
           "title": "Mindful Living",
           "listeners": 50000,
-          "topic": "Mindful Living podcast is a place where experts share meditation techniques and mindfulness practices, helping listeners achieve peace of mind and harmony in everyday life."
+          "topic": "Mindful Living podcast is a place where experts share meditation techniques and mindfulness practices, helping listeners achieve peace of mind and harmony in everyday life.",
+          "coverNumber": 1
         },
         {
           "title": "Unlocking Potential",
           "listeners": 60000,
-          "topic": "Unlocking Potential is a podcast that inspires exploring one's own potential and achieving dreams. John Smith engages in discussions about personal development and success."
+          "topic": "Unlocking Potential is a podcast that inspires exploring one's own potential and achieving dreams. John Smith engages in discussions about personal development and success.",
+          "coverNumber": 2
         },
         {
           "title": "Inner Peace Talks",
           "listeners": 55000,
-          "topic": "Inner Peace Talks is a series of in-depth conversations about striving for inner peace and balance. Listeners will find tips on dealing with stress and tension."
+          "topic": "Inner Peace Talks is a series of in-depth conversations about striving for inner peace and balance. Listeners will find tips on dealing with stress and tension.",
+          "coverNumber": 3
         }
       ]
     },
@@ -30,17 +33,20 @@
         {
           "title": "Around the Globe Adventures",
           "listeners": 45000,
-          "topic": "Around the Globe Adventures is a podcast that takes listeners on a journey to the most beautiful places on Earth. Emily shares her travel experiences and valuable tips for globetrotters."
+          "topic": "Around the Globe Adventures is a podcast that takes listeners on a journey to the most beautiful places on Earth. Emily shares her travel experiences and valuable tips for globetrotters.",
+          "coverNumber": 1
         },
         {
           "title": "Wanderlust Chronicles",
           "listeners": 48000,
-          "topic": "Wanderlust Chronicles is about distant travels, exotic cultures, and fascinating people encountered on the road. Emily inspires venturing into the unknown."
+          "topic": "Wanderlust Chronicles is about distant travels, exotic cultures, and fascinating people encountered on the road. Emily inspires venturing into the unknown.",
+          "coverNumber": 2
         },
         {
           "title": "Cultural Explorations",
           "listeners": 42000,
-          "topic": "Cultural Explorations is a deep dive into the diversity of cultures worldwplacee. Listeners will learn about unique traditions, art, and customs of different communities."
+          "topic": "Cultural Explorations is a deep dive into the diversity of cultures worldwplacee. Listeners will learn about unique traditions, art, and customs of different communities.",
+          "coverNumber": 3
         }
       ]
     },
@@ -52,17 +58,20 @@
         {
           "title": "Tech Insights",
           "listeners": 55000,
-          "topic": "Tech Insights is a source of knowledge about the latest technological achievements. Michael Brown talks to experts and analyzes the impact of new technologies on our lives."
+          "topic": "Tech Insights is a source of knowledge about the latest technological achievements. Michael Brown talks to experts and analyzes the impact of new technologies on our lives.",
+          "coverNumber": 1
         },
         {
           "title": "Innovation Spotlight",
           "listeners": 60000,
-          "topic": "Innovation Spotlight is a podcast that introduces listeners to the most interesting innovations and startups. You will learn how new technologies are changing the business world."
+          "topic": "Innovation Spotlight is a podcast that introduces listeners to the most interesting innovations and startups. You will learn how new technologies are changing the business world.",
+          "coverNumber": 2
         },
         {
           "title": "Digital Revolutionaries",
           "listeners": 52000,
-          "topic": "Digital Revolutionaries is a podcast about the people who contributed to the digital revolution. Listeners will discover the stories of entrepreneurs and inventors."
+          "topic": "Digital Revolutionaries is a podcast about the people who contributed to the digital revolution. Listeners will discover the stories of entrepreneurs and inventors.",
+          "coverNumber": 3
         }
       ]
     },
@@ -74,17 +83,20 @@
         {
           "title": "Healthy Living Essentials",
           "listeners": 48000,
-          "topic": "Healthy Living Essentials is a guplacee to a healthy lifestyle. Sophia White shares practical advice on diet, physical activity, and mental well-being."
+          "topic": "Healthy Living Essentials is a guplacee to a healthy lifestyle. Sophia White shares practical advice on diet, physical activity, and mental well-being.",
+          "coverNumber": 1
         },
         {
           "title": "Nutrition Matters",
           "listeners": 52000,
-          "topic": "Nutrition Matters is a podcast that explores the importance of proper nutrition. Listeners will learn which products have a positive impact on health and energy."
+          "topic": "Nutrition Matters is a podcast that explores the importance of proper nutrition. Listeners will learn which products have a positive impact on health and energy.",
+          "coverNumber": 2
         },
         {
           "title": "Mindful Eating Tips",
           "listeners": 50000,
-          "topic": "Mindful Eating Tips is an inspiration for conscious eating. Sophia teaches mindful eating techniques and shows how to fully enjoy meals."
+          "topic": "Mindful Eating Tips is an inspiration for conscious eating. Sophia teaches mindful eating techniques and shows how to fully enjoy meals.",
+          "coverNumber": 3
         }
       ]
     },
@@ -96,17 +108,20 @@
         {
           "title": "Historical Journeys",
           "listeners": 42000,
-          "topic": "Historical Journeys is a time travel to key moments in history. Daniel tells stories of battles, revolutions, and great historical figures."
+          "topic": "Historical Journeys is a time travel to key moments in history. Daniel tells stories of battles, revolutions, and great historical figures.",
+          "coverNumber": 1
         },
         {
           "title": "Legends of the Past",
           "listeners": 45000,
-          "topic": "Legends of the Past is a podcast about legends and myths from different cultures. Listeners will discover fascinating stories from different eras and places."
+          "topic": "Legends of the Past is a podcast about legends and myths from different cultures. Listeners will discover fascinating stories from different eras and places.",
+          "coverNumber": 2
         },
         {
           "title": "Time Traveler's Tales",
           "listeners": 41000,
-          "topic": "Time Traveler's Tales is stories of time travel and mysterious historical phenomena. Daniel explores unknown aspects of the past."
+          "topic": "Time Traveler's Tales is stories of time travel and mysterious historical phenomena. Daniel explores unknown aspects of the past.",
+          "coverNumber": 3
         }
       ]
     }
@@ -119,15 +134,18 @@
       "top_songs": [
         {
           "title": "Mplacenight Serenade",
-          "views": 180000000
+          "views": 180000000,
+          "coverNumber": 1
         },
         {
           "title": "Starry Night Dreams",
-          "views": 220000000
+          "views": 220000000,
+          "coverNumber": 2
         },
         {
           "title": "Sweet Melody of Love",
-          "views": 160000000
+          "views": 160000000,
+          "coverNumber": 3
         }
       ]
     },
@@ -138,15 +156,18 @@
       "top_songs": [
         {
           "title": "Angels in the Rain",
-          "views": 260000000
+          "views": 260000000,
+          "coverNumber": 1
         },
         {
           "title": "Whispers of Euphoria",
-          "views": 200000000
+          "views": 200000000,
+          "coverNumber": 2
         },
         {
           "title": "Secrets of the Dark Night",
-          "views": 300000000
+          "views": 300000000,
+          "coverNumber": 3
         }
       ]
     },
@@ -157,15 +178,18 @@
       "top_songs": [
         {
           "title": "Digital Adventure",
-          "views": 330000000
+          "views": 330000000,
+          "coverNumber": 1
         },
         {
           "title": "Signals from Space",
-          "views": 390000000
+          "views": 390000000,
+          "coverNumber": 2
         },
         {
           "title": "Electric Dreams",
-          "views": 270000000
+          "views": 270000000,
+          "coverNumber": 3
         }
       ]
     },
@@ -176,15 +200,18 @@
       "top_songs": [
         {
           "title": "Love in Colors",
-          "views": 400000000
+          "views": 400000000,
+          "coverNumber": 1
         },
         {
           "title": "Heart's Tango",
-          "views": 350000000
+          "views": 350000000,
+          "coverNumber": 2
         },
         {
           "title": "Sweet Emotions",
-          "views": 290000000
+          "views": 290000000,
+          "coverNumber": 3
         }
       ]
     },
@@ -195,15 +222,18 @@
       "top_songs": [
         {
           "title": "Retro Lightning",
-          "views": 270000000
+          "views": 270000000,
+          "coverNumber": 1
         },
         {
           "title": "Nighttime Drive",
-          "views": 340000000
+          "views": 340000000,
+          "coverNumber": 2
         },
         {
           "title": "Electronic Spectre",
-          "views": 240000000
+          "views": 240000000,
+          "coverNumber": 3
         }
       ]
     }
